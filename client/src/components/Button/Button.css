@@ -1,0 +1,16 @@
+nav.navbar {
+  margin-bottom: 20px;
+}
+
+.btn{
+  background-color: rgb(119, 116, 116);
+  border-color: #E7E7E7;
+  border-radius: 25%;
+}
+
+.btn:hover{
+  background-color: rgb(255, 255, 255);
+  border-color: #E7E7E7;
+  color: rgb(119, 116, 116);
+  border-radius: 25%;
+}

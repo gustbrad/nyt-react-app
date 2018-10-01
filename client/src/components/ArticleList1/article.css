@@ -1,0 +1,25 @@
+.save-button {
+    border-radius: 50%;
+    margin-left: 15px;
+    background-color: rgb(119, 116, 116);
+    color: white;
+}
+
+button.save-button {
+    border-radius: 25%;
+}
+
+.save-button:hover{
+    background-color: rgb(255, 255, 255);
+    border-color: #E7E7E7;
+    color: rgb(119, 116, 116);
+    border-radius: 25%;
+  }
+
+  a {
+    color: rgb(119, 116, 116);
+  }
+
+  a:hover {
+    color: rgb(58, 57, 57);
+  }

@@ -1,0 +1,8 @@
+nav.navbar {
+  margin-bottom: 20px;
+}
+
+.navbar-custom {
+  background-color: rgb(119, 116, 116);
+  border-color: #E7E7E7;
+}
